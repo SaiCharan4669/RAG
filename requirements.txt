@@ -1,0 +1,15 @@
+pytube
+openai-whisper
+moviepy
+torch
+torchaudio
+torchvision
+transformers
+Pillow
+numpy
+lancedb
+pandas
+tqdm
+opencv-python
+python-dotenv
+scikit-learn
